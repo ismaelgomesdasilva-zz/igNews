@@ -1,0 +1,9 @@
+{
+  "extends": "next/core-web-vitals",
+"rules": {
+    "space-before-function-paren": "off",
+    "react/props-types": "off",
+    "react/react-in-jsx-scope": "off"
+  }
+  
+}
